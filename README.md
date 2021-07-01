@@ -24,6 +24,11 @@ A API é constituída com uma única tabela tendo seus respectivos atributos:
 > Back-End:
 
 > - Java 
+> - Spring Boot
+> - H2-Database
+> - Hibernate
+> - GSON
+> - Swagger
 > - Git (Controle de Versionamento)
 
 ## 🚀 Como executar o projeto
