@@ -3,7 +3,7 @@
 ## 📚 Sobre o projeto
 
 <p>
-O projeto é uma <strong>API REST</strong> e foi desenvolvida em Java, essa APi tem o propósito de realizar o CRUD, sendo eles, incluír, listar, atualizar e deletar.
+O projeto é uma <strong>API REST</strong> e foi desenvolvida em Java, essa API tem o propósito de realizar o CRUD, sendo eles, incluír, listar, atualizar e deletar.
 
 A API é constituída com uma única tabela tendo seus respectivos atributos:
 </p>
