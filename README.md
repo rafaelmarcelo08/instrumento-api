@@ -36,7 +36,7 @@ A API é constituída com uma única tabela tendo seus respectivos atributos:
 Para baixar o repositório local: 
 
 ```bash
-git clone
+git clone https://github.com/rafaelmarcelo08/instrumento-api.git
 ```
 
 ## 📝 Licença
